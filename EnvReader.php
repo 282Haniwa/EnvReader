@@ -1,5 +1,5 @@
 <?php
-class DataBaseMethod
+class EnvReader
 {
     public static function getParams($path)
     {
@@ -18,6 +18,6 @@ class DataBaseMethod
     }
 }
 // echo '<pre>';
-// var_dump(DataBaseMethod::getParams('.env'));
+// var_dump(EnvReader::getParams('.env'));
 // echo '</pre>';
 ?>
