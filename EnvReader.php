@@ -20,4 +20,3 @@ class EnvReader
 // echo '<pre>';
 // var_dump(EnvReader::getParams('.env'));
 // echo '</pre>';
-?>
