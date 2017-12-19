@@ -1,6 +1,6 @@
 # EnvReader
-##使い方
-`DataBaseMethod::getParams(string $path);`
+## 使い方
+`EnvReader::getParams(string $path);`
 を呼び出す。
 `require`を忘れずに！
 
